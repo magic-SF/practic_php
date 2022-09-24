@@ -38,7 +38,7 @@
                 <?php include 'knowledge.inc.php'; ?>
                 <?php echo $a, ' ', $b, ' ', $c; ?> <br>
                 <?php
-                echo 'Содали 2 переменные а = 10 и b = 20';
+                echo 'Создали 2 переменные а = 10 и b = 20';
                 ?>
                 <br>
                 <?php
